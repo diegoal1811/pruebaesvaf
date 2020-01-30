@@ -79,8 +79,8 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Estela Valencia", "Fotografa"],
-      typeSpeed: 100,
+      strings: ["Estela Valencia", "Fotografa 📷"],
+      typeSpeed: 200,
       loop: true,
     });
   });
